@@ -7,17 +7,17 @@
 - Taishi; Student #120663232
 - Timothy; Student #177133212
 
-## Summary
+### Summary
 ______________________________________________________
 
-## Key Findings
+### Key Findings
 - __________________
 - __________________
 - __________________
 
-## Discussion Question
+### Discussion Question
 > ???????????
 
-## References
+### References
 - 
 - 

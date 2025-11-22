@@ -2,6 +2,17 @@
 
 Artificial intelligence has rapidly expanded into healthcare, especially within diagnostic imaging and clinical decision-support systems. Between 2024 and 2025, the FDA authorized hundreds of AI-enabled medical devices across radiology, cardiology, ophthalmology, and emergency care. This project analyzes the growth patterns, reliability, and regulatory considerations of FDA-approved medical AI technologies while highlighting real-world case studies of systems already in use.
 
+## 2. FDA-Authorized Medical AI Devices (2024–2025 Overview)
+
+The FDA’s AI-enabled medical device database documented significant growth during 2024–2025. More than 690 authorized AI/ML devices are listed, with diagnostic imaging—especially radiology—representing the majority of approvals. Many of these systems entered the market through the 510(k) pathway, indicating substantial equivalence to previously authorized devices.
+
+Key categories include:
+- Radiology (approx. 75% of all devices)
+- Ophthalmology (retinal image analysis)
+- Cardiology (heart flow and arrhythmia detection)
+- Oncology (tumor identification in CT/MRI)
+- Emergency medicine (stroke-triage tools)
+
 
 ## site link (apa)
 

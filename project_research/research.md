@@ -13,6 +13,10 @@ Key categories include:
 - Oncology (tumor identification in CT/MRI)
 - Emergency medicine (stroke-triage tools)
 
+## 3. Reliability and Generalizability Concerns
+
+A 2025 JAMA Network Open study examined whether FDA-authorized AI systems perform reliably across varied clinical environments. The authors found that many models lacked transparent documentation about their training datasets. Performance may drop when deployed in hospitals with different populations, equipment, lighting, or workflows. Only a minority of devices included demographic breakdowns or external validation studies, raising concerns regarding fairness and accuracy.
+
 
 ## site link (apa)
 

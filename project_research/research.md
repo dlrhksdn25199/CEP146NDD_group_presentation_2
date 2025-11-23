@@ -21,6 +21,10 @@ A 2025 JAMA Network Open study examined whether FDA-authorized AI systems perfor
 
 According to MedTech Dive, AI medical device approvals rose by more than 60% between 2022 and 2024. Hospitals are increasingly adopting AI tools to reduce diagnostic delays, assist overworked staff, and improve imaging interpretation. Growth beyond radiology includes cardiology, ophthalmology, and oncology. Investment from startups and medical device companies continues to rise.
 
+## 5. Regulatory and Operational Challenges
+
+A 2025 report from IntuitionLabs highlights emerging challenges faced by regulators. Adaptive AI systems complicate oversight because their behavior may change post-deployment. Training data transparency is limited by proprietary restrictions. Patient privacy remains a major concern due to the need for large datasets. Regulators stress that continuous post-market monitoring is essential to ensure safety and accuracy.
+
 
 
 ## site link (apa)

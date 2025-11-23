@@ -25,6 +25,20 @@ According to MedTech Dive, AI medical device approvals rose by more than 60% bet
 
 A 2025 report from IntuitionLabs highlights emerging challenges faced by regulators. Adaptive AI systems complicate oversight because their behavior may change post-deployment. Training data transparency is limited by proprietary restrictions. Patient privacy remains a major concern due to the need for large datasets. Regulators stress that continuous post-market monitoring is essential to ensure safety and accuracy.
 
+## 6. Case Studies of FDA-Authorized Medical AI Systems
+
+### Case Study 1: Viz.ai Stroke Detection
+Analyzes CT scans to identify large-vessel occlusion strokes and alerts specialists instantly.
+
+### Case Study 2: IDx-DR Diabetic Retinopathy AI
+First autonomous diagnostic AI approved by the FDA. Screens for diabetic retinopathy.
+
+### Case Study 3: HeartFlow FFR-CT
+Creates 3D models of coronary arteries using CT scans to identify coronary disease.
+
+### Case Study 4: Caption Guidance Ultrasound
+Provides real-time guidance for capturing high-quality ultrasound images.
+
 
 
 ## site link (apa)

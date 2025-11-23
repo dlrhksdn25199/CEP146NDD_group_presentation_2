@@ -39,6 +39,22 @@ Creates 3D models of coronary arteries using CT scans to identify coronary disea
 ### Case Study 4: Caption Guidance Ultrasound
 Provides real-time guidance for capturing high-quality ultrasound images.
 
+## 7. Evaluation: Benefits and Concerns
+
+### Benefits
+- Faster diagnosis  
+- Reduced clinician workload  
+- Early disease detection  
+- Better access in low-resource settings  
+- More consistent imaging
+
+### Concerns
+- Risk of bias  
+- Variable accuracy in different hospitals  
+- Privacy risks  
+- Oversight challenges for adaptive AI  
+- Overreliance on automated systems
+
 
 
 ## site link (apa)

@@ -17,6 +17,11 @@ Key categories include:
 
 A 2025 JAMA Network Open study examined whether FDA-authorized AI systems perform reliably across varied clinical environments. The authors found that many models lacked transparent documentation about their training datasets. Performance may drop when deployed in hospitals with different populations, equipment, lighting, or workflows. Only a minority of devices included demographic breakdowns or external validation studies, raising concerns regarding fairness and accuracy.
 
+## 4. Industry Growth Trends (MedTech Dive 2024)
+
+According to MedTech Dive, AI medical device approvals rose by more than 60% between 2022 and 2024. Hospitals are increasingly adopting AI tools to reduce diagnostic delays, assist overworked staff, and improve imaging interpretation. Growth beyond radiology includes cardiology, ophthalmology, and oncology. Investment from startups and medical device companies continues to rise.
+
+
 
 ## site link (apa)
 

@@ -8,7 +8,7 @@
 - Timothy; Student #177133212
 
 ### Summary
-______________________________________________________
+This research examines the growth of FDA-approved AI medical devices between 2024 and 2025. The FDA database shows more than 690 AI-enabled devices, with radiology dominating approvals. A 2025 JAMA study highlights concerns about fairness, generalizability, and lack of demographic transparency. MedTech Dive reports a 60% increase in approvals driven by hospital adoption and industry investment. IntuitionLabs outlines regulatory challenges such as adaptive AI oversight and post-market monitoring. Overall, AI in healthcare is expanding rapidly, but reliability, transparency, and safety remain critical considerations for developers and regulators.
 
 ### Key Findings
 - 690+ FDA-approved AI/ML devices, with ~75% in radiology where imaging strongly complements machine learning.

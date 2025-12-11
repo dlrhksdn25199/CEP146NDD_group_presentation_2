@@ -19,6 +19,9 @@ This research examines the growth of FDA-approved AI medical devices between 202
 ### Discussion Question
 > How can healthcare regulators and developers collaboratively ensure transparent data practices, fairness across demographic groups, and continuous validation for adaptive AI systems while still enabling innovation at the pace required by modern healthcare?
 
+### Youtube Link of presentation
+[![AI in Healthcare](https://img.youtube.com/vi/LAn6W2LPqBU/0.jpg)](https://youtu.be/LAn6W2LPqBU)
+
 ### References
 - [AI-Enabled Medical Devices – FDA](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-enabled-medical-devices)
 
